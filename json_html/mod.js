@@ -36,6 +36,7 @@ function handleRequest(request) {
       align="center"
       style="font-family: Avenir, Helvetica, Arial, sans-serif; font-size: 1.5rem;"
     >
+      <h1>yamanoku.deno.dev</h1>
       <p>
         Visit <a href="/json">/json</a> for JSON response and
         <a href="/html">/html</a> for HTML response
